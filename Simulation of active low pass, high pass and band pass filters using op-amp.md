@@ -23,12 +23,17 @@ LT-Spice
 ## CIRCUIT DIAGRAM:
 
 ### LOWPASS FILTER CIRCUIT DIAGRAM:
+<img width="1918" height="1172" alt="image" src="https://github.com/user-attachments/assets/793a6d0e-9ed6-4cf9-969b-adf10e0aba81" />
+
 
 
 ### HIGHPASS FILTER CIRCUIT DIAGRAM:
+<img width="1918" height="1150" alt="image" src="https://github.com/user-attachments/assets/3bc43ebd-c00b-4c2c-b9e0-9867e0513444" />
 
 
 ### BANDPASS FILTER CIRCUIT DIAGRAM:
+<img width="1918" height="1132" alt="image" src="https://github.com/user-attachments/assets/02a8041e-a78c-4e56-bf99-1cde099fe44a" />
+
 
 
 
@@ -37,11 +42,30 @@ LT-Spice
 ## OUTPUT GRAPH:
 
 ### LOWPASS FILTER:
+<img width="1910" height="638" alt="image" src="https://github.com/user-attachments/assets/c9da5520-f563-4a86-b3e7-193acadc69f5" />
+
+
+<img width="1080" height="1422" alt="image" src="https://github.com/user-attachments/assets/1be4ef37-a69b-4585-909d-0380c2b583d1" />
+
+
 
 ### HIGHPASS FILTER:
 
+<img width="1918" height="612" alt="image" src="https://github.com/user-attachments/assets/c4b76cda-0044-4fb7-84d7-5435af930ffc" />
+
+<img width="1080" height="1326" alt="image" src="https://github.com/user-attachments/assets/b2a87186-8209-46ef-80e8-39f2c8b7cb2c" />
+
+
+
+
 ### BANDPASS FILTER:
+<img width="1918" height="651" alt="image" src="https://github.com/user-attachments/assets/74a30be7-bc99-4cf8-a4f7-b9cfac00de3b" />
+
+<img width="1080" height="1334" alt="image" src="https://github.com/user-attachments/assets/1cc0647b-3f20-431c-99de-dd1cf213d81a" />
+
+
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and active low pass filter, high pass and band pass filter is simulated.
+
 
